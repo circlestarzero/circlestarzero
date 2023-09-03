@@ -24,5 +24,7 @@ At NoEdgeAI, our goal is to revolutionize scientific research and redefine Knowl
 - Proficient in Python and Pytorch.
 
 **Design:**  
-- Fluent in Figma.
-🤝 Become a part of our journey. Email us at [hr@noedgeai.com](mailto:hr@noedgeai.com).
+- Skilled in Figma.
+🤝 Become a part of our journey. 
+
+Email us at [hr@noedgeai.com](mailto:hr@noedgeai.com).
