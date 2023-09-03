@@ -2,7 +2,7 @@
 
 🔍 Founder of @NoEdgeAI — Bridging Knowledge & Innovation.  
 💡 Built [chatpaper.org](https://chatpaper.org).  
-🎓 Studied CS at HuaZhong University of Science & Technology.  
+🎓 Studying CS at HuaZhong University of Science & Technology.  
 💻 Member of @UniqueStudio.  
 🌍 "Driven by making a difference."  
 📩 Reach out: cc@noedgeai.com.
