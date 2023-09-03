@@ -25,6 +25,5 @@ At NoEdgeAI, our goal is to revolutionize scientific research and redefine Knowl
 
 **Design:**  
 - Skilled in Figma.
-🤝 Become a part of our journey. 
 
-Email us at [hr@noedgeai.com](mailto:hr@noedgeai.com).
+🤝 Become a part of our journey. Email us at [hr@noedgeai.com](mailto:hr@noedgeai.com).
